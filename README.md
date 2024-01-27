@@ -1,4 +1,4 @@
-# insta-clone-repo-final 
+# insta-clone-repo-finally 
 In this project we basically make a basic instagram's clone  which has features such as searching, posting comments, and viewing stories.
 
 *TECHNOLOGIES USED HERE*
